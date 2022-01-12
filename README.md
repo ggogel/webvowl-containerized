@@ -8,7 +8,7 @@ Run the image in a Docker container:
 
 `docker run --rm -d -p 8080:8080 ggogel/webvowl:latest`
 
-Then access `http://localhost:8080` through you webbrowser.
+Then access `http://localhost:8080` through your browser.
 
 ## Build
 
